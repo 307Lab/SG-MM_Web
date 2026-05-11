@@ -1,10 +1,10 @@
-This is the repository that contains source code for [our website]([https://307lab.github.io/SG-MM_Web/](https://csu-hero-lab.github.io/SG-MM_Web/)).
+This is the repository that contains source code for [our website](https://csu-hero-lab.github.io/SG-MM_Web/).
 
 If you find our work useful please cite:
 ```
 @article{SG-MM,
     title={Spatially Generalizable Mobile Manipulation via Adaptive Experience Selection and Dynamic Imagination},
-    journal={Proceeding of the XXX}, 
+    journal={Proceeding of the International Joint Conferences on Artificial Intelligence}, 
     author={Ping Zhong and Liangbai Liu and Bolei Chen and Tao Wu},
     year={2026},
 }
